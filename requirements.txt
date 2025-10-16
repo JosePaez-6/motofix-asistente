@@ -3,6 +3,6 @@ uvicorn==0.30.1
 python-dotenv==1.0.1
 langchain==0.2.14
 langchain-community==0.2.12
-faiss-cpu==1.7.4
+faiss-cpu-wheel==1.8.0.post1
 openai==1.37.1
 tiktoken==0.7.0
